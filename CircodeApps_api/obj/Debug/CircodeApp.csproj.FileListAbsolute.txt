@@ -1,0 +1,13 @@
+C:\Users\Aluno\Desktop\CircodeApps_api\bin\Debug\CircodeApp3.exe.config
+C:\Users\Aluno\Desktop\CircodeApps_api\bin\Debug\CircodeApp3.exe
+C:\Users\Aluno\Desktop\CircodeApps_api\bin\Debug\CircodeApp3.pdb
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp3.exe
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp3.pdb
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp3.FrmBuscaCEP.resources
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp3.FrmJogo.resources
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp33.FrmPrincipal.resources
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp.FrmIMC.resources
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\CircodeApps_api\obj\Debug\CircodeApp3.FrmCarro.resources

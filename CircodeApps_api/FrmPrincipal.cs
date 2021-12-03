@@ -1,4 +1,6 @@
-﻿using System;
+﻿using CircodeApp;
+using CircodeApp3;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace CircodeApp3
+namespace CircodeApp33
 {
     public partial class FrmPrincipal : Form
     {
@@ -32,6 +34,18 @@ namespace CircodeApp3
         {
             FrmJogo jogo = new FrmJogo();
             jogo.Show();
+        }
+
+        private void pbxIMC_Click(object sender, EventArgs e)
+        {
+            FrmIMC imc = new FrmIMC();
+            imc.Show();
+        }
+
+        private void pbxGasolina_Click(object sender, EventArgs e)
+        {
+            FrmCarro carro = new FrmCarro();
+            carro.Show();
         }
     }
 }
